@@ -1,0 +1,6 @@
+.welcome {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    width: 100%;
+}

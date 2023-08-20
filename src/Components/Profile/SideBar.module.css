@@ -1,0 +1,29 @@
+.headone{
+    border-bottom: 1px rgba(197, 191, 191, 0.5);
+}
+.mailCon {
+    height: 90vh;
+    width: 10.5rem;
+    border-right: 1px solid rgba(197, 191, 191, 0.5);
+    /* position: relative;
+    top: -57px; */
+    padding: 0.25rem;
+}
+
+.pro{
+    display: flex;
+    flex-direction: row;
+}
+.mailCon Button {
+    border: none;
+    width: 10rem;
+    height: 2.5rem;
+    display: flex;
+    /* align-items: center; */
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+.mailCon p {
+    align-items: center;
+}

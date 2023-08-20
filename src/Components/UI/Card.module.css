@@ -1,0 +1,16 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    background-color: aqua;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    width: 40%;
+    height: auto;
+    padding: 2rem;
+}
+
+@media (max-width: 840px){
+    .card{
+        width: 100%;
+    }
+}
